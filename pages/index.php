@@ -14,7 +14,7 @@
         <div class="col-md-4 col-md-offset-4">
             <div class="login-panel panel panel-primary">
                 <div class="panel-heading">
-                    <h3 class="panel-title"><span class="glyphicon glyphicon-lock"></span> Iniciar Sesión
+                    <h3 class="panel-title"><span class="glyphicon glyphicon-lock"></span> Inicie Sesión
                     	<span class="pull-right"><span class="glyphicon glyphicon-pencil"></span> <a style="text-decoration:none; cursor:pointer; color:white;" id="signup">Registrarse</a></span>
                     </h3>
                 </div>
