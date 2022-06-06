@@ -1,0 +1,7 @@
+1- Para abrir nuestro proyecto llevar la carpeta proyecto 1 C:\xampp\htdocs
+2- Luego crear una base de datos con el nombre sesion e importa la base de datos 
+-- que esta en la carpeta con el nombre de sesion http://localhost/phpmyadmin/
+3- entrar al servidor http://localhost/proyecto1/pages/
+4- Registrese 
+5- Inicie Sesion y añadir tareas
+
