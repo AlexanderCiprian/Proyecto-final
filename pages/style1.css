@@ -11,6 +11,9 @@ body{
   overflow: hidden;
   background: linear-gradient(135deg, #4AB1FF, #2D5CFE);
 }
+
+
+
 ::selection{
   color: #fff;
   background: #3C87FF;
@@ -188,6 +191,11 @@ body{
 .settings li i{
   padding-right: 8px;
 }
+.goo{
+  height: 50px;
+  width: 50px;
+}
+
 
 @media (max-width: 400px) {
   body{
@@ -213,4 +221,6 @@ body{
   .task label input{
     margin-top: 4px;
   }
+
+ 
 }
