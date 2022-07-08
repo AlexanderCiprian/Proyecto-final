@@ -68,6 +68,13 @@
    	 	</div>
     </div>
 </div>
+
 <script src="custom.js"></script>
+<center>
+<h4 class="IS">Inicie sesion tambien con:</h4>
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_200_200/0/1519856215226?e=2147483647&v=beta&t=kJv1gX0_sqLG1g7LKLD5uh_6uEFpWGUTuzpuvVJVdEw" alt="" target="blank_">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/004/020/294/small/facebook-social-media-logo-free-vector.jpg" alt="">
+</center>
+
 </body>
 </html>
