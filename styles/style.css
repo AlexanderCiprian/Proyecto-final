@@ -62,6 +62,11 @@ p{
 .link:hover{
    color: cadetblue;
 }
+.goo{
+  height: 50px;
+  width: 50px;
+}
+
 @media(min-width:768px)
 {
   .formulario{
